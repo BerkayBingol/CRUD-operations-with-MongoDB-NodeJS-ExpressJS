@@ -21,9 +21,8 @@ npm install validator
 ## Usage
 
 ```nodejs
-import foobar
-
 localhost:3000/products/create with keys.
+new CRUD operations will be added .
 ```
 
 ## Contributing
