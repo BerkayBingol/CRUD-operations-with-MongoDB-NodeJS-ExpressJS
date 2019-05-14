@@ -1,10 +1,6 @@
 # NodeJs-ExpressJs-CRUD
 Developing Restful API with Node.js and MongoDB Atlas Cloud. 
--CHANGE DB USERNAME AND PASS.
-
-# NodeJs-ExpressJs-CRUD
-
-Developing Restful API with Node.js and MongoDB Atlas Cloud. 
+-CHANGE DB USERNAME AND PASS
 
 ## Installation
 
