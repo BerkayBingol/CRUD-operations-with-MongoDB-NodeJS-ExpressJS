@@ -1,4 +1,4 @@
-const CONNECTION_URL = "mongodb+srv://berkayb:$yourpass.@cluster0-vx9pv.mongodb.net/test?retryWrites=true";
+const CONNECTION_URL = "mongodb+srv://$YourID:$YourPass.@cluster0-vx9pv.mongodb.net/test?retryWrites=true";
 const DATABASE_NAME = "productstutorial";
 const mongoose = require('mongoose');
 const mongoDB = process.env.MONGODB_URI || CONNECTION_URL;
